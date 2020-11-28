@@ -6,9 +6,8 @@
 - [حساب گیت هاب](https://github.com/ElhamKaramiyan)
 - [آدرس رزومه](https://elhamkaramiyan.github.io/)
 - [SOP](https://elhamkaramiyan.github.io/SOP/)
-
-
--------------------
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20281963/pdf/)
+------------------
 ## گروه ها
 
 1. G-L01
