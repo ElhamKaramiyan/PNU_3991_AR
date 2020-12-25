@@ -7,7 +7,49 @@
 - [آدرس رزومه](https://elhamkaramiyan.github.io/)
 - [SOP](https://elhamkaramiyan.github.io/SOP/)
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20281963/pdf/)
-------------------
+- [پروژه گروهی درس طراحی واسط کاربر](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
+-----------------
+## گروه های کلاسی
+ 
+1. G-L01
+
+   1. [_LMT-40_صغری عزیزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/40_%D8%B5%D8%BA%D8%B1%D9%8A%20%D8%B9%D8%B2%D9%8A%D8%B2%D9%8A)
+   2. [_LMT-59_مژگان متقی ثابت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/59_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
+   3. [_LMT-54_حمید کشاورز خورشیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/54_%D8%AD%D9%85%D9%8A%D8%AF%20%D9%83%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%AE%D9%88%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A)
+   4. [_LMT-45_سحر علی محمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/45_%D8%B3%D8%AD%D8%B1%20%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
+   5. [_LMT-52_الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/52_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+   6. [_LMT-28_محدثه روحانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/28_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
+
+2. G-U01
+
+   1. [** _UID-42_فاطمه وكيلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D9%83%D9%8A%D9%84%D9%8A)
+<br>
+
+   2. [_UID-17_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/17_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
+<br>
+
+   3. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+<br>
+
+   4. [_UID-37_زينب ملكي راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/37_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D8%A7%D8%AF)
+<br>
+
+   5. [_UID-39_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/39_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
+<br>
+
+3. G-R01
+
+   1. [** _UID-42_فاطمه وكيلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D9%83%D9%8A%D9%84%D9%8A)
+<br>
+   2. [_RPM01-23_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/23_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
+<br>
+   3. [_RPM01-55_الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/55_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+<br>
+   4. [_RPM02-08_پوریا بداغی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/08_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A)
+<br>
+----------------
+
+
 ## گروه ها
 
 1. G-L01
