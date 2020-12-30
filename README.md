@@ -8,7 +8,9 @@
 - [SOP](https://elhamkaramiyan.github.io/SOP/)
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20281963/pdf/)
 - [پروژه گروهی درس طراحی واسط کاربر](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
------------------
+- [معرفی درس روش پژوهش و ارائه در دانشگاه های دیگر](https://www.conted.ox.ac.uk/about/research-methods-and-skills)
+- [گزارش روش پژوهش پایان نامه](https://www.escholarship.org/uc/item/5kr2g7vn)
+---------------
 ## گروه های کلاسی
  
 1. G-L01
