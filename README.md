@@ -1,6 +1,8 @@
 
 # PNU_3991_AR
 ----------
+<div dir="rtl">
+ 
 ### الهام کرمیان
 ---
 - [حساب گیت هاب](https://github.com/ElhamKaramiyan)
@@ -88,6 +90,10 @@
 -----------------
 ## روز و ساعت ارائه دروس
 
+</div>
+
+<div dir="Itl">
+ 
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -147,3 +153,6 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
+</div>
+
