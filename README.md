@@ -16,10 +16,9 @@
 > ارزیابی ها
 
 ## بخش عمومی
-- [ارزیابی رزومه و انگیزه نام] (https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87/XX_CV_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87/XX_CV_CheckList_AR_3991.pdf)
 
-- [خلاصه ارزیابی بخش عمومی]
-(https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/XX_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ---------------
 ## گروه های کلاسی
