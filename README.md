@@ -13,13 +13,24 @@
 - [معرفی درس روش پژوهش و ارائه در دانشگاه های دیگر](https://www.conted.ox.ac.uk/about/research-methods-and-skills)
 - [گزارش روش پژوهش پایان نامه](https://www.escholarship.org/uc/item/5kr2g7vn)
 ---------------
+> ارائه یک فصل از درس نظریه زبان ها و ماشین ها
+
+# ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
+- [نظریه زبان ها و ماشین ها فصل ۸ قسمت ۱](http://m.aparat.com/v/mwVL3)
+- [نظریه زبان ها و ماشین ها فصل ۸ قسمت ۲](http://m.aparat.com/v/TPBqk)
+- [نظریه زبان ها و ماشین ها فصل ۸ قسمت ۳](http://m.aparat.com/v/Wq2de)
+- [نظریه زبان ها و ماشین ها فصل ۸ قسمت ۴](http://m.aparat.com/v/Cpay0)
+----------------
 > ارزیابی ها
 
 ## بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87/XX_CV_CheckList_AR_3991.pdf)
 
 - [خلاصه ارزیابی بخش عمومی](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/XX_GeneralSection_CheckList_AR_3991.pdf)
-
+## دروس کارشناسی 
+- [ارزیابی درس طراحی واسط](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D9%88%D8%B3%20%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%D8%A7%D8%B3%D8%B7%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1/29_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+- [ ارزیابی درس روش پژوهش وارائه](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D9%88%D8%B3%20%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/%D8%B1%D9%88%D8%B4%20%D9%BE%D8%B2%D9%88%D9%87%D8%B4%20%D9%88%20%D8%A7%D8%B1%D8%A7%D8%A6%D9%87/55_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [ ارزیابی درس نظریه زبان ها و ماشین ها](https://github.com/ElhamKaramiyan/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D9%88%D8%B3%20%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/%D9%86%D8%B8%D8%B1%DB%8C%D9%87%20%D8%B2%D8%A8%D8%A7%D9%86%20%D9%87%D8%A7%20%D9%88%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%87%D8%A7/52_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 ---------------
 ## گروه های کلاسی
  
